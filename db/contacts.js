@@ -19,8 +19,7 @@ async function getContactById(contactId) {
 
 async function removeContact(contactId) {
   // Повертає об'єкт видаленого контакту. Повертає null, якщо контакт з таким id не знайдений.
-  const contactId = String(id);
-  const contacts = await getAll();
+  const contacts = await listContacts();
   const index = contacts.findIndex((item) => item.id === contactId);
   if (index === -1) {
     return null;
