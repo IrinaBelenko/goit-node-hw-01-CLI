@@ -1,7 +1,7 @@
 # goit-node-hw-01-CLI
 
 "list":
-https://drive.google.com/file/d/1b97_HVzYXhZqMdWqjcL1FE7cAHEO58nx/view?usp=sharing
+https://drive.google.com/file/d/1RhhggJcgZLxv4FSXCYPIc5wcpWAGI1lS/view?usp=sharing
 
 "get":
 https://drive.google.com/file/d/1aHGACkf5SUsyzQPUDPi0Xz-fHk-QysRO/view?usp=sharing
